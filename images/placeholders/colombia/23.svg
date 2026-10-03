@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d3dbdf"/><stop offset="1" stop-color="#b8c5ca"/></linearGradient></defs>
+<rect width="1200" height="1500" fill="url(#g)"/>
+<g fill="#ffffff" fill-opacity="0.55">
+<circle cx="705.6" cy="591.6" r="42.24"/>
+<path d="M408 793.2 L542.4 630 L609.6 716.4 L676.8 668.4 L792 793.2 Z"/>
+</g>
+<text x="600" y="912" text-anchor="middle" font-family="Lato, Helvetica, Arial, sans-serif" font-size="66" fill="#46585c" fill-opacity="0.85" letter-spacing="5.28">Colombia 23</text>
+<text x="600" y="997.8000000000001" text-anchor="middle" font-family="Lato, Helvetica, Arial, sans-serif" font-size="40" fill="#46585c" fill-opacity="0.6">4:5 placeholder</text>
+</svg>

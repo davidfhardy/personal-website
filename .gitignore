@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+*.log
+
+# Local agent/work artifacts (not site content)
+_shots/
+_preview/

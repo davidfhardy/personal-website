@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1350" viewBox="0 0 2400 1350">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5f7b7e"/><stop offset="0.6" stop-color="#9bb2b1"/><stop offset="1" stop-color="#c9d6d4"/></linearGradient>
+<linearGradient id="mist" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.35"/></linearGradient>
+</defs>
+<rect width="2400" height="1350" fill="url(#sky)"/>
+<path d="M0 820 L260 620 L470 760 L760 480 L1020 700 L1250 560 L1480 720 L1760 470 L2050 690 L2400 540 L2400 1350 L0 1350 Z" fill="#6d8889" fill-opacity="0.75"/>
+<rect y="600" width="2400" height="400" fill="url(#mist)"/>
+<path d="M0 980 L320 800 L600 930 L900 760 L1200 900 L1500 780 L1850 940 L2150 820 L2400 900 L2400 1350 L0 1350 Z" fill="#4e6a6c"/>
+<path d="M0 1130 L400 1000 L800 1100 L1200 990 L1600 1110 L2000 1010 L2400 1090 L2400 1350 L0 1350 Z" fill="#3b5557"/>
+</svg>
