@@ -780,6 +780,13 @@ strong {
   margin-top: 1.5rem;
 }
 
+.page-header__divider {
+  width: min(100%, 560px);
+  margin: 2.5rem auto 0;
+  border: 0;
+  border-top: 1px solid var(--color-border);
+}
+
 /* Compact intro so a full-bleed gallery can dominate (portfolio). */
 .page-header--compact {
   padding-bottom: 1.25rem;
